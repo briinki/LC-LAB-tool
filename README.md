@@ -1,5 +1,5 @@
 # Give it a shoot
-A tool build for simplifying the process of compiling and generating needed files for byacc/j and jflex
+A tool built for simplifying the process of compiling and generating needed files for byacc/j and jflex
 
 ## Instructions
 - Place the .l and .y files in the same folder of this tool (give-it-a-shoot.bat). 
