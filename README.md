@@ -1,4 +1,4 @@
-# Give it a shoot
+# Give it a shot
 A tool built for simplifying the process of compiling and generating needed files for byacc/j and jflex
 
 ## Instructions
